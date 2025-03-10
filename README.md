@@ -12,7 +12,7 @@
 
 - Upload your solution in the folder: `daily_problems/${YYYY}/${MM}/${MMDD}/personal_submission`.
 
-- Remember to name your submission code file `${problem_code}_{your_name}.{py/cpp/...}`.
+- Remember to name your submission code file `${problem_code}_${your_name}.{py/cpp/...}`.
 
 - Also, when creating a pull request, please title it `${YYYYMMDD} ${INFO}`.
 
@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1800 | [CF1280B](https://codeforces.com/problemset/problem/1280/B) | A classic problem to consider different cases. Find the maximum possible answer first. Which kinds of cases are easy to check? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1111/solution/cf1280b.md) |
-| 1900 | [CF846D](https://codeforces.com/problemset/problem/846/D) | How can you confirm if a sub-matrix is already dead? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1111/solution/cf846d.md) |
+| 1800 | [CF675D](https://codeforces.com/problemset/problem/675/D) | Find a rule of the parent node. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/03/0310/solution/cf675d.md) |
+| 1900 | [CF909E](https://codeforces.com/problemset/problem/909/E) | It's just rounds of task completion. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/03/0310/solution/cf909e.md) |
