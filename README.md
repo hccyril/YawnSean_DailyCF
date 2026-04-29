@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1600 | [GYM106507D](https://codeforces.com/gym/106507/problem/D) | There can't be many numbers in set $S$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/04/0429/solution/cf106507d.md) |
-| *1900 | [GYM106501H](https://codeforces.com/gym/106501/problem/H) | Iterate over the separating point. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/04/0429/solution/cf106501h.md) |
+| *1200 | [GYM106507B](https://codeforces.com/gym/106507/problem/B) | Some positions are deemed to be divided. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/04/0430/solution/cf106507b.md) |
+| *1900 | [GYM106507H](https://codeforces.com/gym/106507/problem/H) | We only need to consider a few prime factors. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/04/0430/solution/cf106507h.md) |
