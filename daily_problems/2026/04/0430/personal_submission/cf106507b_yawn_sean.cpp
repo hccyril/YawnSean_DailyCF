@@ -1,0 +1,47 @@
+#include <bits/stdc++.h>
+// #pragma GCC optimize("O3,Ofast,unroll-loops")
+// #include "atcoder/all"
+
+using namespace std;
+auto rng = mt19937(random_device()());
+auto rngl = mt19937_64(random_device()());
+
+int main() {
+	ios_base::sync_with_stdio(false);
+	cin.tie(0);
+	cout.tie(0);
+
+	int t;
+	cin >> t;
+
+	while (t --) {
+		int n;
+		cin >> n;
+
+		vector<int> nums(n);
+		for (auto &x: nums) cin >> x;
+
+		int idx = -1, ans = 0;
+
+		for (int i = 0; i < n; i ++) {
+			if (nums[i] == nums[(i + n - 1) % n]) {
+				idx = i;
+				ans ++;
+			}
+		}
+
+		if (!ans || n == 1) cout << 1 << '\n';
+		else {
+			int cur_idx = idx;
+			for (int i = 1; i <= n; i ++) {
+				if (nums[(idx + i) % n] == nums[(idx + i - 1) % n]) {
+					if (cur_idx != idx + i - 1 && nums[cur_idx % n] == nums[(idx + i - 1) % n]) ans ++;
+					cur_idx = idx + i;
+				}
+			}
+			cout << ans << '\n';
+		}
+	}
+
+	return 0;
+}
