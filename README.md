@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1200 | [GYM106507B](https://codeforces.com/gym/106507/problem/B) | Some positions are deemed to be divided. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/04/0430/solution/cf106507b.md) |
-| *1900 | [GYM106507H](https://codeforces.com/gym/106507/problem/H) | We only need to consider a few prime factors. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/04/0430/solution/cf106507h.md) |
+| *1200 | [GYM106511G](https://codeforces.com/gym/106511/problem/G) | It's the same as finding the separating position that divides the whole group of permutations into equal sizes. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/05/0501/solution/cf106511g.md) |
+| *1600 | [GYM106511K](https://codeforces.com/gym/106511/problem/K) | Fill a lot of constraints without affecting others. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/05/0501/solution/cf106511k.md) |
