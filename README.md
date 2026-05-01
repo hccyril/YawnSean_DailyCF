@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1200 | [GYM106511G](https://codeforces.com/gym/106511/problem/G) | It's the same as finding the separating position that divides the whole group of permutations into equal sizes. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/05/0501/solution/cf106511g.md) |
-| *1600 | [GYM106511K](https://codeforces.com/gym/106511/problem/K) | Fill a lot of constraints without affecting others. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/05/0501/solution/cf106511k.md) |
+| *1100 | [GYM106511F](https://codeforces.com/gym/106511/problem/F) | Cases. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/05/0502/solution/cf106511f.md) |
+| *1700 | [GYM106511J](https://codeforces.com/gym/106511/problem/J) | Making decisions from back to start. And how many choices do they have? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/05/0502/solution/cf106511j.md) |
